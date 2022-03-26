@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ikaiying.cn</id>
-    <title>KaiyingZhao&amp;&amp;Currydai</title>
-    <updated>2022-03-26T16:13:42.084Z</updated>
+    <title>Kaiying&amp;Curry</title>
+    <updated>2022-03-26T16:22:10.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ikaiying.cn"/>
     <link rel="self" href="https://ikaiying.cn/atom.xml"/>
     <subtitle>Our story is just beginning!</subtitle>
     <logo>https://ikaiying.cn/images/avatar.png</logo>
     <icon>https://ikaiying.cn/favicon.ico</icon>
-    <rights>All rights reserved 2022, KaiyingZhao&amp;&amp;Currydai</rights>
+    <rights>All rights reserved 2022, Kaiying&amp;Curry</rights>
     <entry>
         <title type="html"><![CDATA[因为爱情，五年快乐！]]></title>
         <id>https://ikaiying.cn/post/shen/</id>
