@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ikaiying.cn</id>
     <title>Kaiying&amp;Curry</title>
-    <updated>2022-04-15T12:20:34.386Z</updated>
+    <updated>2022-04-15T12:33:41.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ikaiying.cn"/>
     <link rel="self" href="https://ikaiying.cn/atom.xml"/>
@@ -58,17 +58,9 @@
         <link href="https://ikaiying.cn/post/wang/">
         </link>
         <updated>2022-03-26T13:54:13.000Z</updated>
-        <content type="html"><![CDATA[<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="D:/currydaipro/jianguoyun/我的坚果云/blog/Gridea/post-images/1650024679554.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;"></div>
-</center>
-]]></content>
+        <content type="html"><![CDATA[<div style="align: center">
+<img src="https://github.com/currydai/currydai.github.io/blob/master/post-images/poem.png"/>
+</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[起]]></title>
